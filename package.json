@@ -18,5 +18,8 @@
   "homepage": "https://github.com/cyprianos/algus",
   "devDependencies": {
     "benchmark": "^1.0.0"
+  },
+  "dependencies": {
+    "minimist": "^1.1.1"
   }
 }
