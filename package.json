@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cyprianos/algus/issues"
   },
-  "homepage": "https://github.com/cyprianos/algus"
+  "homepage": "https://github.com/cyprianos/algus",
+  "devDependencies": {
+    "benchmark": "^1.0.0"
+  }
 }
